@@ -208,8 +208,8 @@ export default {
     isCardFlipped: false,
     amexCardPlaceholder: '#### ###### #####',
     dinersCardPlaceholder: '#### ###### ####',
-    defaultCardPlaceholder: '#### #### #### ####',
-    currentPlaceholder: '### ### ### ####'
+    defaultCardPlaceholder: '### ### ### ####',
+    currentPlaceholder: '#### #### #### ####'
   }),
   watch: {
     currentFocus () {
