@@ -209,7 +209,7 @@ export default {
     amexCardPlaceholder: '#### ###### #####',
     dinersCardPlaceholder: '#### ###### ####',
     defaultCardPlaceholder: '#### #### #### ####',
-    currentPlaceholder: '#### #### #### ####'
+    currentPlaceholder: '### ### ### ####'
   }),
   watch: {
     currentFocus () {
